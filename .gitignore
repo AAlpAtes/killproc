@@ -16,8 +16,6 @@
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
-[Rr]elease/
-[Rr]eleases/
 [Aa][Rr][Mm]/
 [Aa][Rr][Mm]64/
 bld/
@@ -335,3 +333,16 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+/killproc/bin/Release
+/killproc/bin/x64/Release/xjis.nlp
+/killproc/bin/x64/Release/sorttbls.nlp
+/killproc/bin/x64/Release/sortkey.nlp
+/killproc/bin/x64/Release/prcp.nlp
+/killproc/bin/x64/Release/prc.nlp
+/killproc/bin/x64/Release/normnfkd.nlp
+/killproc/bin/x64/Release/normnfkc.nlp
+/killproc/bin/x64/Release/normnfd.nlp
+/killproc/bin/x64/Release/normnfc.nlp
+/killproc/bin/x64/Release/normidna.nlp
+/killproc/bin/x64/Release/mscorlib.dll
+/killproc/bin/x64/Release/ksc.nlp
